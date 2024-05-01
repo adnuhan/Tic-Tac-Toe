@@ -45,7 +45,7 @@ def draw_board() -> None:
     board_turtle.speed(0)
 
     screen.clear()
-    # documentation
+
     axis = 100
 
     # Horizontal draw_line
@@ -193,10 +193,10 @@ def draw_cross(x: float, y: float) -> None:
     draw_cross_turtle = Turtle()
     draw_cross_turtle.hideturtle()
     draw_cross_turtle.speed(0)
+    draw_cross_turtle.color(RED)
 
     angle = 45
     for i in range(2):
-        draw_cross_turtle.color(RED)
         draw_cross_turtle.penup()
         draw_cross_turtle.goto(x, y)
         draw_cross_turtle.width(50)
