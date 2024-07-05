@@ -63,7 +63,7 @@ Contributions to the Tic Tac Toe game are welcome. If you have a suggestion that
  **Nahunda Bekele** https://github.com/NahundaBekele
 
 ## Contact
-**Linkedin** https://www.linkedin.com/in/adnuhan
+<p><a herf="www.linkedin.com/in/adnuhan">Linkedin</a></p>
 **Telegram** https://t.me/adnuhan
 **Instagram** https://www.instagram.com/adnuhan/
 
