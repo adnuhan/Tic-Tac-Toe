@@ -12,8 +12,8 @@ This Project is a simple yet engaging implementation of the classic game Tic Tac
 - Play against another human player.
 - Colorful Graphical user interface.
 - Detection of win, lose, or draw conditions.
-- Interactive gameplay with mouse clicks to make moves.
 - Option to start a new round after a match is finished.
+- Interactive gameplay with mouse clicks to make moves.
 - Basic error handling for invalid moves and game over conditions.
 
 ## Requirements
