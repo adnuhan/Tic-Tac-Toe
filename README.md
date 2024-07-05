@@ -5,6 +5,7 @@ screenshoot
 ## Overview
 
 This Project is a simple yet engaging implementation of the classic game Tic Tac Toe using Python and the Turtle module for an interactive and visually appealing experience.
+
 It features a graphical user interface where two players can play against each other, taking turns to mark Xs and Os on the board.
 
 ## Features
@@ -46,33 +47,27 @@ python tic_tac_toe.py
 Screenshots
 ![Gameplay Screenshot][]## ContributingContributions are welcome! If you find any bugs or have suggestions for improvements, please create an issue or submit a pull request.## LicenseThis project is licensed under the MIT License.```Feel free to modify the content to reflect the specific details of your project, such as any additional features, screenshots, or specific instructions for setup and gameplay.
 
-## How to Play
-- Run the script to start the game.
-- The first player clicks on the desired cell in the grid to mark an X.
-- The second player then clicks on an empty cell to mark an O.
-- The game alternates between players until one wins or the grid is full.
-- To reset the game, simply close the window and run the script again.
+```
+## Gameplay
+- The game follows the standard Tic Tac Toe rules. Two players take turns marking the board with "X" and "O".
+- The first player to achieve a horizontal, vertical, or diagonal line of three marks wins. If the board fills up without a winner, it's a draw.
 
 ## Contributing
 Contributions to the Tic Tac Toe game are welcome. If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
+## Acknowledgments
+- Thanks to the Python and Turtle communities for their great documentation and support
+- Thanks to Stack Overflow for answering every question i have
+
+## Author
+ **Nahunda Bekele** https://github.com/NahundaBekele
 
 ## Contact
-Nahunda Bekele - @your-twitter
-Project Link: https://github.com/your-username/tic-tac-toe-python
-
-## Acknowledgments
-- Python's Turtle module documentation
-- Stack Overflow
-- And every other contributor who helped in building this project.
-Remember to replace placeholders like your-username, your-twitter, and any other specific details with your actual information. Enjoy your coding journey!
+**Linkedin** https://www.linkedin.com/in/adnuhan
+**Telegram** https://t.me/adnuhan
+**Instagram** https://www.instagram.com/adnuhan/
 
 
-```
-Gameplay
-The game follows the standard Tic Tac Toe rules. Two players take turns marking the board with "X" and "O". The first player to achieve a horizontal, vertical, or diagonal line of three marks wins. If the board fills up without a winner, it's a draw.
 
 Click on a square on the board to place your mark.
 The game will alternate turns between you and the computer opponent (basic AI).
@@ -90,6 +85,3 @@ Difficulty levels for the AI opponent.
 Score tracking and win/loss statistics.
 Contributing
 Feel free to fork this repository and contribute your improvements!
-
-Consider adding comments and docstrings to improve code readability.
-Explore implementing the optional features mentioned above.
