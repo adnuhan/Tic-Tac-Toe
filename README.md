@@ -1,34 +1,20 @@
 # Tic-Tac-Toe
 
+screenshoot
+
 ## Overview
-This project is a simple yet engaging implementation of the classic game Tic Tac Toe, developed in Python with the Turtle graphics module. It features a graphical user interface where two players can play against each other, taking turns to mark Xs and Os on a 3x3 grid.
 
-This is a simple implementation of the classic game Tic Tac Toe (also known as Noughts and Crosses) using Python and the Turtle module for graphics.
+This Project is a simple yet engaging implementation of the classic game Tic Tac Toe using Python and the Turtle module for an interactive and visually appealing experience. It features a graphical user interface where two players can play against each other, taking turns to mark Xs and Os on the board.
 
-This project is a Python implementation of the classic game Tic-Tac-Toe using the Turtle graphics module for an interactive and visually appealing experience.
+## Features
 
-This repository contains a Python implementation of the classic game Tic Tac Toe.
-
-
-## Features:
-
-- Graphical user interface using Python's Turtle module.
-- Support for two-player mode.
-- Easy to reset the game and start a new round.
-- Detection of win, lose, or draw conditions.
-- Customizable board and pen colors.
-
-
+- Play against the computer.
 - Play against another human player.
-- The game board is displayed using the Turtle graphics module.
+- Colorful Graphical user interface.
+- Detection of win, lose, or draw conditions.
 - Interactive gameplay with mouse clicks to make moves.
+- Option to start a new round after a match is finished.
 - Basic error handling for invalid moves and game over conditions.
-- Option to restart the game after a match is finished.
-
-•	Colorful interface
-•	Has a main screen
-•	Has controls to start a new game and return to the main menu
-•	GUI built using the Python Turtle Graphics
 
 ## Requirements
 
