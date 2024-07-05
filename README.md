@@ -5,7 +5,6 @@ screenshoot
 ## Overview
 
 This Project is a simple yet engaging implementation of the classic game Tic Tac Toe using Python and the Turtle module for an interactive and visually appealing experience.
-
 It features a graphical user interface where two players can play against each other, taking turns to mark Xs and Os on the board.
 
 ## Features
