@@ -82,14 +82,8 @@ Note: This is a basic implementation and can be extended with features like:
 
 <html>
   <h1>Tic-Tac-Toe</h1>
-  <hr />
   <h2>Screenshoot</h2>
-  <div>
-    <img src="./Screenshot 2024-07-05 151222.png" alt="" />
-    <img src="./Screenshot 2024-07-05 151239.png" alt="" />
-    <img src="./Screenshot 2024-07-05 151234.png" alt="" />
-  </div>
-  <hr />
+  ![New Project](https://github.com/NahundaBekele/Tic-Tac-Toe/assets/138674654/ca614483-c0d8-4ade-8368-39b984129ffa)
   <h2>Overview</h2>
   <hr />
   <p>
@@ -103,7 +97,6 @@ Note: This is a basic implementation and can be extended with features like:
   </p>
 
   <h2>Features</h2>
-  <hr />
   <ul>
     <li>Play against the computer.</li>
     <li>Play against another human player.</li>
