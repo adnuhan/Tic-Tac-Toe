@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 # Screenshoot
-![Screenshot](https://github.com/NahundaBekele/Tic-Tac-Toe/assets/138674654/2bceaddb-f6ea-4088-878b-ddf5a0e02aa5)
+![Screenshot](https://github.com/NahundaBekele/Tic-Tac-Toe/assets/138674654/768ce14f-274d-46dd-a78b-f021c320742e)
 
 ## Overview
 
