@@ -80,6 +80,57 @@ Click detection for registering player moves.
 (Optional) Visual representation of the game board (implementation details depend on your approach).
 Note: This is a basic implementation and can be extended with features like:
 
+<html>
+  <h1>Tic-Tac-Toe</h1>
+  <hr />
+  <h2>Screenshoot</h2>
+  <div>
+    <img src="./Screenshot 2024-07-05 151222.png" alt="" />
+    <img src="./Screenshot 2024-07-05 151239.png" alt="" />
+    <img src="./Screenshot 2024-07-05 151234.png" alt="" />
+  </div>
+  <hr />
+  <h2>Overview</h2>
+  <hr />
+  <p>
+    This Project is a simple yet engaging implementation of the classic game Tic
+    Tac Toe using Python and the Turtle module for an interactive and visually
+    appealing experience.
+  </p>
+  <p>
+    It features a graphical user interface where two players can play against
+    each other, taking turns to mark Xs and Os on the board.
+  </p>
+
+  <h2>Features</h2>
+  <hr />
+  <ul>
+    <li>Play against the computer.</li>
+    <li>Play against another human player.</li>
+    <li>Colorful Graphical user interface.</li>
+    <li>Detection of win, lose, or draw conditions.</li>
+    <li>Option to start a new round after a match is finished.</li>
+    <li>Interactive gameplay with mouse clicks to make moves.</li>
+    <li>Basic error handling for invalid moves and game over conditions.</li>
+  </ul>
+  <h2>Requirements</h2>
+  <hr />
+  <ul>
+    <li>Python 3.x</li>
+    <li>Turtle module (included in the standard library)</li>
+  </ul>
+  <h2>Installation</h2>
+  <hr />
+  <h2>Acknowledgments</h2>
+  <hr>
+<p>- Thanks to the Python and Turtle communities for their great documentation and support</p>
+<p>- Thanks to Stack Overflow for answering every question i have</p>
+<h2>Gameplay</h2>
+<p>- The game follows the standard Tic Tac Toe rules. Two players take turns marking the board with "X" and "O".</p>
+<p>- The first player to achieve a horizontal, vertical, or diagonal line of three marks wins. If the board fills up without a winner, it's a draw.</p>
+
+</html>
+
 Two-player mode (local or network play).
 Difficulty levels for the AI opponent.
 Score tracking and win/loss statistics.
