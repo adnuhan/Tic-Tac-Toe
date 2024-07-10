@@ -56,7 +56,7 @@ If you find any bugs or have suggestions for improvements that would make this b
  <html>
    <ul>
      <li>
-       <a herf="https://www.linkedin.com/in/adnuhan">Linkedin</a>
+       <a href="https://www.linkedin.com/in/adnuhan">Linkedin</a>
        <a href="https://t.me/adnuhan">Telegram</a>
        <a href="https://www.instagram.com/adnuhan/">Instagram</a>
      </li>
