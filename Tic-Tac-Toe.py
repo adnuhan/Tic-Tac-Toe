@@ -21,7 +21,7 @@ def home():
     board = [["", "", ""], ["", "", ""], ["", "", ""]]
     turn = 0
 
-    screen.bgpic("Home.png")
+    screen.bgpic("img/Home.png")
     screen.onscreenclick(play_style)
     screen.update()
     screen.mainloop()
@@ -676,19 +676,19 @@ def game_over(x, y):
 def player_x_win():
     time.sleep(1)
     screen.clear()
-    screen.bgpic("X.png")
+    screen.bgpic("img/X.png")
 
 
 def player_o_win():
     time.sleep(1)
     screen.clear()
-    screen.bgpic("O.png")
+    screen.bgpic("img/O.png")
 
 
 def draw():
     time.sleep(1)
     screen.clear()
-    screen.bgpic("Draw.png")
+    screen.bgpic("img/Draw.png")
 
 
 if __name__ == '__main__':
