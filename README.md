@@ -15,16 +15,15 @@ It features a graphical user interface where two players can play against each o
 * Play against a friend.
 * Challenge the AI opponent.
 * Game logic for player turns.
-* Colorful Graphical user interface.
-* Detection of win, lose, or draw conditions.
-* Option to start a new round after a match is finished.
-* Interactive gameplay with mouse clicks to make moves.
+* Option to start a new game after a match is finished.
+* Standard Tic-Tac-Toe rules with win, lose, and draw detection.
 * Basic error handling for invalid moves and game over conditions.
+* Colorful and interactive graphical user interface with mouse controls.
 
 ## Requirements
 
-- Python 3.x
-- Turtle module (included in the standard library)
+* Python 3.x
+* Turtle module (included in the standard library)
 
 ## Installation
 
@@ -36,8 +35,8 @@ git clone https://github.com/NahundaBekele/Tic-Tac-Toe.git
 
 ## Gameplay
 
-- The game follows the standard Tic Tac Toe rules. Two players take turns marking the board with "X" and "O".
-- The first player to achieve a horizontal, vertical, or diagonal line of three marks wins. If the board fills up without a winner, it's a draw.
+* The game follows the standard Tic Tac Toe rules. Two players take turns marking the board with "X" and "O".
+* The first player to achieve a horizontal, vertical, or diagonal line of three marks wins. If the board fills up without a winner, it's a draw.
 
 ## Contributing
 
@@ -45,10 +44,11 @@ If you find any bugs or have suggestions for improvements that would make this b
 
 ## Acknowledgments
 
-- Thanks to the Python and Turtle communities for their great documentation and support
-- Thanks to Stack Overflow for answering every question i have
+* Thanks to the Python and Turtle communities for their great documentation and support
+* Thanks to Stack Overflow for answering every question i have
 
 ## Author
+
  **Nahunda Bekele**
 
 ## Contact
@@ -57,11 +57,8 @@ If you find any bugs or have suggestions for improvements that would make this b
    <ul>
      <li>
        <a href="https://github.com/NahundaBekele">Github</a>
-       <br>
        <a herf="https://linkedin.com/in/adnuhan">Linkedin</a>
-       <br>
        <a href="https://t.me/adnuhan">Telegram</a>
-       <br>
       < a href="https://www.instagram.com/adnuhan/">Instagram</a>
      </li>
    </ul>
