@@ -57,7 +57,7 @@ If you find any bugs or have suggestions for improvements that would make this b
    <ul>
      <li>
        <a href="https://github.com/NahundaBekele">Github</a>
-       <a herf="https://linkedin.com/in/adnuhan">Linkedin</a>
+       <a herf="https://www.linkedin.com/in/adnuhan">Linkedin</a>
        <a href="https://t.me/adnuhan">Telegram</a>
        <a href="https://www.instagram.com/adnuhan/">Instagram</a>
      </li>
