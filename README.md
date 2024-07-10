@@ -57,11 +57,12 @@ If you find any bugs or have suggestions for improvements that would make this b
    <ul>
      <li>
        <a href="https://github.com/NahundaBekele">Github</a>
-       <a herf="www.linkedin.com/in/adnuhan">Linkedin</a>
+       <br>
+       <a herf="https://linkedin.com/in/adnuhan">Linkedin</a>
+       <br>
        <a href="https://t.me/adnuhan">Telegram</a>
-       <a href="https://www.instagram.com/adnuhan/">Instagram</a>
-      fontawesome.com
-      <i class="fas fa-band-aid">Check</i>
+       <br>
+      < a href="https://www.instagram.com/adnuhan/">Instagram</a>
      </li>
    </ul>
  </html>
