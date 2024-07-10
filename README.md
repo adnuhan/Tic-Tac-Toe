@@ -59,7 +59,7 @@ If you find any bugs or have suggestions for improvements that would make this b
        <a href="https://github.com/NahundaBekele">Github</a>
        <a herf="https://linkedin.com/in/adnuhan">Linkedin</a>
        <a href="https://t.me/adnuhan">Telegram</a>
-      < a href="https://www.instagram.com/adnuhan/">Instagram</a>
+       <a href="https://www.instagram.com/adnuhan/">Instagram</a>
      </li>
    </ul>
  </html>
